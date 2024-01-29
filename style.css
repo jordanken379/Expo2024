@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+
+
+
+
+body{
+
+background-color: black;
+display: grid;
+align-items: center;
+
+}
+
+.jumbotron{
+    text-align: center;
+    margin-top: 200px;
+    padding-right: 50px;
+    margin-bottom: 80%;
+
+
+}
+.judul{
+    font-family: 'Poppins';
+    text-align: left;
+    padding: -50px;
+
+}
+
+.namblas{
+    align-items: center;
+    text-align: center;
+    margin-bottom: 200px;
+    margin-top: 200px;
+    font-family: 'Montserrat';
+    padding: 10px;
+
+}
+.bls{
+    font-family: 'Poppins';
+
+}
+
+.card{
+
+    margin-bottom: 75px;
+
+}
+
+.scroll{
+
+    margin-bottom: 150px;
+
+}
+
+.fak{
+
+    margin-top: 50px;
+    font-family: 'Montserrat';
+}
+
+.footer{
+
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.build{
+
+    text-align: center;
+
+}
